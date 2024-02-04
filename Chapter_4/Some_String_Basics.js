@@ -1,0 +1,10 @@
+console.log("I Am Going To Demonstrate Basics Of Strings In This Programme.")
+console.log("And For That I Am Going To Declare Some String Varriables.")
+let str = "Pritam Saha"
+console.log("So The String Varriable I Declared Is " + str)
+console.log("There Is A Method In String Which Returns The Length Of The String Let's Demonstrate That Method Using That Same Varriable.")
+console.log("So The Length Of The String I Declared Is " + str.length)
+console.log("Now I Am Going To Print That String One By Using Indexing.")
+console.log("So The First Charecter Of The String Is " + str[0])
+console.log("So The Second Charecter Of The String Is " + str[1])
+console.log("So That's How I Can Access The Complete String Using String Indexing")

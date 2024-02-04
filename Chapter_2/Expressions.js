@@ -1,0 +1,46 @@
+console.log("Firstly I Am Going To Demonstrate Arithmetic Operators In JavaScript")
+console.log("Addition Between Two Numbers - ", 7 + 8)
+console.log("Subtraction Between Two Numbers - ", 7 - 8)
+console.log("Multiplication Between Two Numbers - ", 7 * 8)
+console.log("Division Between Two Numbers - ", 7 / 8)
+console.log("Exponentiation Between Two Numbers(Square Of Number 7) - ", 7 ** 2)
+console.log("Now I Am Going To Demonstrate Increment And Decrement Operations And For That I Am Going To Create Varriables")
+let a = 54
+console.log("So The Value Of The Varriable Is - ", a)
+a++
+console.log("Now I Am Going To Show The Value Of Post-Increment", a)
+console.log("Now I Am Going To Show The Value Of Pre-Increment", ++a)
+a--
+console.log("Now I Am Going To Show The Value Of Post-Decrement", a)
+console.log("Now I Am Going To Show The Value Of Pre-Decrement", --a)
+console.log("Now We Are Going To Demonstrate Assignment Operators And We Also Going To Declare A Varriable For That")
+let Varriable = 5
+console.log("So The Value Of The Varriable Is ", Varriable)
+console.log("So The Value Of The Varriable After Using += Operator To Add 5 Into It Is ", Varriable += 5)
+console.log("So The Value Of The Varriable After Using -= Operator To Subtract 5 From It Is ", Varriable -= 5)
+console.log("So The Value Of The Varriable After Using *= Operator To Multiply 5 Into It Is ", Varriable *= 5)
+console.log("So The Value Of The Varriable After Using /= Operator To Divide 5 From It Is ", Varriable /= 5)
+
+console.log("Now We Are Going To Demonstrate Comparison Operators")
+console.log("Comparison Operators Are Used To Compare Values Between Two Or More Value And Return A Boolean Value(True/False) From Comparing And For Comparing Two Or More Values We Are Also Going To Use Varriable")
+let Var_1 = 6
+let Var_2 = 7
+console.log("So The Value Of Two Varriable Is ", Var_1, Var_2)
+console.log("Now We Are Going To Compare These Two Values Using == Operator", Var_1 == Var_2)
+console.log("Now We Are Going To Compare These Two Values Using <= Operator", Var_1 <= Var_2)
+console.log("Now We Are Going To Compare These Two Values Using >= Operator", Var_1 >= Var_2)
+console.log("Now We Are Going To Compare These Two Values Using != Operator", Var_1 != Var_2)
+console.log("Now We Are Going To Demonstrate Two Other Operators Which Are === And !== And For That We Are Going To Use A String And We Are Also Going To Compare Between == And === & != And !== Operators")
+let Var_3 = "6"
+console.log("Time To Demonstrate == Operator Using The New Varriable Specially Created For Showing Difference", Var_1 == Var_3)
+console.log("Time To Demonstrate === Operator Using The New Varriable Specially Created For Showing Difference", Var_1 === Var_3)
+console.log("Time To Demonstrate != Operator Using The New Varriable Specially Created For Showing Difference", Var_1 != Var_3)
+console.log("Time To Demonstrate !== Operator Using The New Varriable Specially Created For Showing Difference", Var_1 !== Var_3)
+console.log("Now We Are Going To Demonstrate Logical Operators")
+console.log("Firstly We Are Going To Demonstrate Logical AND Operator Betwen Two Varriable")
+console.log("Here Is The Demonstration", Var_1 == Var_2 && Var_1 == Var_3)
+console.log("Now We Are Going To Demonstrate Logical OR Operator Betwen Two Varriable")
+console.log("Here Is The Demonstration", Var_1 == Var_2 || Var_1 === Var_3)
+console.log("Now We Are Going To Demonstrate Logical NOT Operator Betwen Two Varriable")
+console.log("Here Is The Demonstration", !Var_1 == Var_3)
+console.log("So These Are All About Expressions And Operators In JavaScript")

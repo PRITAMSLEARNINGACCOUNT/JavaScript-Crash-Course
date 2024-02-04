@@ -1,0 +1,21 @@
+.Container {
+    display: grid;
+    grid-template-columns: 20vw 20vw 20vw 20vw 20vw;
+    max-height: 98vh;
+    max-width: 100vw;
+    gap: 10px;
+}
+
+.card {
+    min-height: fit-content;
+}
+
+.card .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card img {
+    object-fit: cover;
+}

@@ -1,0 +1,1 @@
+alert("And This Is A Script Written Under A Script File Which Is Linked To That HTML File.")

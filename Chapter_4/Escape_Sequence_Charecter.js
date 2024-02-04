@@ -1,0 +1,6 @@
+console.log("In This Programme I Am Going To Demonstrate Escape Sequence Charecter")
+console.log("One Example Of Escape Sequence Charecter Is New Line Charecter")
+console.log("In Order To Demonstrate It I Am Going To Declare Two String Varriables")
+console.log("What I Am Doing Is That I Am Giving Single Quote Using Escape Sequence Charecter")
+console.log("So Here Is The Final String Using Escape Sequence Charecter")
+console.log("Before Escape Sequence Charecter \" After Escape Sequence Charecter")

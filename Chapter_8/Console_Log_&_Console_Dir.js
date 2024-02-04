@@ -1,0 +1,8 @@
+console.log("In This Programme I Am Going To Demonstrate The Difference Between Console Log And Console Dir.")
+console.log("In Order To Demonstrate It I Am Going To I Am Going To Use An Element.")
+console.log(document.querySelector(".box"))
+console.log("That's How Console Log Looks Like Now I Am Going To Use That Same In Order To Demonstrate Console Dir.")
+console.dir(document.querySelector(".box"))
+console.log("So That's How Console Dir Looks Like")
+console.log("So Now You Can Differenciate Between Console Log And Console Dir.")
+console.log("Console Log Gives Direct Element While Console Dir Gives The Property Of That Element.")

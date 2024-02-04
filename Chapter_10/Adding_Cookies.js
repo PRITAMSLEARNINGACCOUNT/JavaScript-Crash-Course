@@ -1,0 +1,4 @@
+let var_1 = prompt("Enter A Key To Create A Cookie??")
+let var_2 = prompt("And Enter A Value Corresponding To The Key You Have Given")
+console.log("I Am Adding Cookies Using A Method Which Helps Me To Encode If Any Symbol Is Given As A Key Or As A Value")
+alert(`So The Key Given By You Is ${var_1} & The Value Corresponding To It Is ${var_2} And After Encoding It The Key Became ${encodeURIComponent(var_1)} & After Encoding The Value Corresponding To The Value It Became ${encodeURIComponent(var_2)} And After Encoding The Complete Key & Value Pair Is Now Looks Like ${encodeURIComponent(var_1)}=${encodeURIComponent(var_2)}(If Anything Doesn't Changes Then You Must Have Given A Normal Simple String Without Any Special Charecter And "encodURIComponent" Only Encodes If Any Special Charecter Is Given.)`)

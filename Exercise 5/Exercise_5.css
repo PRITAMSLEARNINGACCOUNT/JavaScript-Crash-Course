@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: green;
+    font-size: xx-large;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 100vh; */
+}
+
+.Container {
+    display: flex;
+    justify-content: start;
+    align-items: end;
+    height: 100vh;
+    background-color: black;
+}
+
+.box {
+    text-align: center;
+    color: green;
+    /* border: 2px solid red; */
+    height: 50vh;
+    width: 50vw;
+}
+
+.box p {
+    padding: 2vh;
+}

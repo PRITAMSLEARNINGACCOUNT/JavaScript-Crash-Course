@@ -1,0 +1,1 @@
+console.log("So The LowerCase Of The Word Given Is " + "HELLO WORLD".toLowerCase())

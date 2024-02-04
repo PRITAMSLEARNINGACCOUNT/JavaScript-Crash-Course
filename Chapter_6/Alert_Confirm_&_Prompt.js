@@ -1,0 +1,6 @@
+alert("In This Programme I Am Going To Demonstrate Alert,Prompt & Confirm,This Statement Is Printing Using Alert So You Can Understand That This Type Of Statement Can Be Printed Using Alert.")
+alert("Now I Am Going To Demonstrate Confirm & Prompt.Prompt Is Used To Take Any Kinds Of Input From User & Confirm Takes Input As True Or False Cancel Is False And Ok Is True If I Am Using Confirm.In Order To Demonstrate Two Of These Methods I Will Declare Two Varriables And Show The Value Of Them.")
+let a = prompt("Enter A Value??,This Statement Is Printing Using Prompt And Taking Input From The User.")
+alert("So The Value Given By You Using Prompt Is - " + a)
+let boolean = confirm("This Is A Confirmation Statement As I Told This Confirmation Statement Return True If Ok Is Pressed And False If Cancel Is Pressed.So Please Select Any One Of Those To Proceed Further.")
+alert("So The Value Taken From The Input Of Confirm Is - " + boolean)
